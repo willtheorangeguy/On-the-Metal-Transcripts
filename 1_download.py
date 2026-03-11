@@ -32,4 +32,4 @@ def download_playlist(playlist_url):
 if __name__ == "__main__":
     playlist = "https://feeds.transistor.fm/on-the-metal-0294649e-ec23-4eab-975a-9eb13fd94e06"
     download_playlist(playlist)
-    print("Downloaded all audio from the Self Hosted podcast website.")
+    print("Downloaded all audio from the On the Metal podcast website.")
