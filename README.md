@@ -30,7 +30,7 @@
 ## Key Features
 
 - Ability to download all pre-created transcripts.
-- Pull all Self Hosted podcast episodes, and convert them to audio.
+- Pull all On the Metal podcast episodes, and convert them to audio.
 - Create transcripts for every episode using OpenAI's Whisper.
 - Generate a summary from the transcript using Ollama and Llama.
 - Correct spelling and grammatical errors using LanguageTool.
