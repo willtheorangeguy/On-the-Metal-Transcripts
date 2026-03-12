@@ -16,6 +16,7 @@ scripts = [
 
 # List of years
 years = [
+    "2019",
     "2020",
     "2021",
     "2023"
